@@ -34,7 +34,7 @@ Toggles["Clicker"]:OnChanged(function()
             else
                 ErrorNotif("Sry ur executor not suppurt firesignal", 1)
             end
-            wait(.2)
+            wait(0.2)
         end
     end)
 end)
