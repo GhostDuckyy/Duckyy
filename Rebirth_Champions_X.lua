@@ -347,7 +347,7 @@ credits:AddLabel("Save&Load Theme - wally")
 
 Library:Notify("RControl toggle ui")
 
--- i guess they have or working on anti-cheat in server-side ( i didn't found any can ban u or whatelse in dex )
+-- i guess they have or working anti-cheat in server-side ( i didn't found any can ban u or whatelse in dex )
 if lp.Data:FindFirstChild("Banned") then
     lp.Data:FindFirstChild("Banned"):Destroy()
 end
